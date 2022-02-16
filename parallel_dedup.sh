@@ -1,4 +1,5 @@
 #!/bin/bash
-(sleep 5; echo 111) &
-(sleep 2; echo 222) &
+deduplicate_bismark  --bam  --paired  -o s_8_cell  SRR5836473_1_bismark_bt2_pe.bam > dedup_8_cell.log &
+deduplicate_bismark  --bam  --paired  -o s_epiblast  SRR3824222_1_bismark_bt2_pe.bam > dedup_epiblast.log &
+deduplicate_bismark  --bam  --paired  -o s_icm  SRR5836475_1_bismark_bt2_pe.bam > dedup_icm.log &
 wait
