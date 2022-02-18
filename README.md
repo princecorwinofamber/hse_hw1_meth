@@ -31,3 +31,6 @@ Epiblast
 ICM
 
 ![](https://raw.githubusercontent.com/princecorwinofamber/hse_hw1_meth/main/475.png)
+
+
+Как видно, у всех трёх образцов имеются заментные артефакты обнаружения метилированного цитозина на обратном чтении.
