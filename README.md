@@ -9,13 +9,6 @@
 # 2b
 
 | | multiple alignments perceptage |
-|---:|:---|:---|
-| 8 cell | 2.97% |
-| epiblast | 2.65% |
-| ICM | 3.16% |
-
-
-| | multiple alignments perceptage |
 |---:|:---|
 | 8 cell | 2.97% |
 | epiblast | 2.65% |
