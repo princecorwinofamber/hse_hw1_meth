@@ -22,6 +22,11 @@ https://colab.research.google.com/drive/19gqn7u1uzFVEogOgzljz_bg1nIbeNa4v?usp=sh
 
 # 2d
 
+Отчёты:  
+https://github.com/princecorwinofamber/hse_hw1_meth/blob/main/SRR3824222_1_bismark_bt2_PE_report.html  
+https://github.com/princecorwinofamber/hse_hw1_meth/blob/main/SRR5836473_1_bismark_bt2_PE_report.html  
+https://github.com/princecorwinofamber/hse_hw1_meth/blob/main/SRR5836475_1_bismark_bt2_PE_report.html  
+
 8cell
 
 ![](https://raw.githubusercontent.com/princecorwinofamber/hse_hw1_meth/main/473.png)
