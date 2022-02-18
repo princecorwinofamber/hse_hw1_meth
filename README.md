@@ -57,4 +57,4 @@ ICM:
 ![](https://raw.githubusercontent.com/princecorwinofamber/hse_hw1_meth/main/graph_icm.png)
 
 Epiblast:
-![](https://raw.githubusercontent.com/princecorwinofamber/hse_hw1_meth/main/graph_epiblast.png)
+![](https://raw.githubusercontent.com/princecorwinofamber/hse_hw1_meth/main/graph_epblast.png)
