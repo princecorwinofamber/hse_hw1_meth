@@ -49,3 +49,12 @@ Epiblast:
 Как видно, на стадии 8-клеточного эмбриона уровень метилирования относительно высокий. При переходе на стадию внутренней клеточной массы бластоциста уровень метилирования существенно падает, а при достижении стадии эпибласта возрастает и становится ещё больше, чем был на стадии 8-клеточного эмбриона. Это довольно хорошо согласуется с исследованиями, т.к. наблюдается один гребень волны метилирования.
 
 # 2f
+
+8cell:
+![](https://raw.githubusercontent.com/princecorwinofamber/hse_hw1_meth/main/graph_8_cell.png)
+
+ICM:
+![](https://raw.githubusercontent.com/princecorwinofamber/hse_hw1_meth/main/graph_icm.png)
+
+Epiblast:
+![](https://raw.githubusercontent.com/princecorwinofamber/hse_hw1_meth/main/graph_epiblast.png)
