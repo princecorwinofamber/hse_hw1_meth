@@ -1,4 +1,11 @@
-https://colab.research.google.com/drive/19gqn7u1uzFVEogOgzljz_bg1nIbeNa4v?usp=sharing
+ссылка на google colab: https://colab.research.google.com/drive/19gqn7u1uzFVEogOgzljz_bg1nIbeNa4v?usp=sharing
+
+# 1
+
+Особенности можно наблюдать по сравнению с секвенированием ДНК или РНК:
+
+* Сниженный процент нуклеотидов GC
+* Высокий процент тимина и низкий - цитозина. Это связано с тем, что цитозин метилирован, и при дезаминировании может превратиться в тимин
 
 # 2a
 
