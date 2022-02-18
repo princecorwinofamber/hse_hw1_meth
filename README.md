@@ -20,8 +20,14 @@
 
 # 2d
 
+8cell
+
 ![](https://raw.githubusercontent.com/princecorwinofamber/hse_hw1_meth/main/473.png)
 
+Epiblast
+
 ![](https://raw.githubusercontent.com/princecorwinofamber/hse_hw1_meth/main/222.png)
+
+ICM
 
 ![](https://raw.githubusercontent.com/princecorwinofamber/hse_hw1_meth/main/475.png)
