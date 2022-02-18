@@ -1,0 +1,11 @@
+[methylation]
+file = cell8_methylation.bigWig
+height = 4
+title = methylation
+file_type = bigwig
+
+[coverage]
+file = cell8_coverage.bigWig
+height = 4
+title = coverage
+file_type = bigwig
