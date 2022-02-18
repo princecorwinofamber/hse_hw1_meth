@@ -1,11 +1,11 @@
 [methylation]
 file = icm_methylation.bigWig
-height = 4
+height = 6
 title = methylation
 file_type = bigwig
 
 [coverage]
 file = icm_coverage.bigWig
-height = 4
+height = 6
 title = coverage
 file_type = bigwig
