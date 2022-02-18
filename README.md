@@ -8,7 +8,7 @@
 
 # 2b
 
-| Stage | multiple alignments perceptage |
+| | multiple alignments perceptage |
 |---:|:---|:---|
 | 8 cell | 2.97% |
 | epiblast | 2.65% |
