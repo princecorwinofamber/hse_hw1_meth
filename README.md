@@ -20,3 +20,8 @@
 
 # 2d
 
+![](https://raw.githubusercontent.com/princecorwinofamber/hse_hw1_meth/main/473.png)
+
+![](https://raw.githubusercontent.com/princecorwinofamber/hse_hw1_meth/main/222.png)
+
+![](https://raw.githubusercontent.com/princecorwinofamber/hse_hw1_meth/main/475.png)
